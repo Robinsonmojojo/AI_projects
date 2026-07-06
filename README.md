@@ -1,1 +1,6 @@
-# AI_projects-
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
